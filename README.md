@@ -34,7 +34,7 @@ nav li {
   <body>
 <div class="header"> <nav>
 <ul>
-<li><a href="#">головна</a></li> <li><a href="#">Зоpi</a></li>
+<li><a href="#">Головна</a></li> <li><a href="#">Зоpi</a></li>
 <li><a href="#">Coнцe</a></li> <li><a href="#">Планети</a></li>
 <li><a href="#">Про проект</a></li>
 <li><a href="#">Kонтакти</a></li>
