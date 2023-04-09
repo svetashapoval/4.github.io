@@ -4,11 +4,38 @@
 <meta charset="UTF-8">
 <title>Caтypн</title>
 <link rel="stylesheet" href="responsive.css" /> <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head> <body>
+  <style>
+    .header { text-align: center; }
+
+nav ul { padding: 0;}
+
+nav li {
+  list-style: none;
+  display: inline;
+  font-size: 24px;
+  margin-right: 8px;
+}
+
+.container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.photo {
+  max-width: 600px;
+}
+
+.photo img { width: 100%;}
+.data {font-size: 24px;}
+.data ul { margin-top: 0;}
+    </style>
+</head> 
+  <body>
 <div class="header"> <nav>
 <ul>
 <li><a href="#">головна</a></li> <li><a href="#">Зоpi</a></li>
-<li><a href="#">Coнчe</a></li> <li><a href="#">Планети</a></li>
+<li><a href="#">Coнцe</a></li> <li><a href="#">Планети</a></li>
 <li><a href="#">Про проект</a></li>
 <li><a href="#">Kонтакти</a></li>
 </ul>
@@ -25,3 +52,4 @@
 <li>Кільця сатурна можна побачити навіть в простий телескоп.</li>
 <li>Рік на сатурні триває більше 29 земних років.</li>
 </ul>
+  </body>
