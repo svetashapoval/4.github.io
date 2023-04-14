@@ -49,7 +49,7 @@ nav li {
 <h1>Планета Сатурн</h1>>
 </div>
 <div class="container">
-<div class="photo"> <img src="C:\Users\lenovo\Pictures\planet(1).jpg" />
+<div class="photo"> <img src="C:\Users\lenovo\Pictures\planet.jpg" />
 <div class="data">
 <ul>
 <li>Сатурн друга за величиною планета сонячної системи.</li>
