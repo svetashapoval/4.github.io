@@ -50,7 +50,7 @@ nav li {
 </div>
 <div class="container">
 <div class="photo"> <img src="planet.jpg" />
-</div>
+</div>![planet (1)](https://user-images.githubusercontent.com/130224057/232089218-1e1f0649-760e-4dc3-aa9e-968c0d2a5ecf.jpg)
 <div class="data">
 <ul>
 <li>Сатурн друга за величиною планета сонячної системи.</li>
